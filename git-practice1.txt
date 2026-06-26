@@ -1,1 +1,3 @@
-hello this is git practice one
+<<<<<<< HEAD
+hello this is gitpractice 1
+>>>>>>> 4ec3b96c292d7d43d865e15799d98ee17fad0656
